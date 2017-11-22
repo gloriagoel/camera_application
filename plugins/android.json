@@ -1,0 +1,21 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.gloria.camera"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.gloria.camera"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.gloria.camera"
+    }
+  },
+  "dependent_plugins": {}
+}
